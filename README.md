@@ -1,4 +1,4 @@
-# 🚀= My Agentic AI Learning Journey
+# = My Agentic AI Learning Journey
 
 Welcome to my Agentic AI learning journey!
 
